@@ -1,3 +1,0 @@
-cmd in this dir
-\v_env\Script\activate
-py test.py
