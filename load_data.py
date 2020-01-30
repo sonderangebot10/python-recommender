@@ -4,8 +4,6 @@ from surprise import Reader
 
 from random import randint
 
-# This is the same data that was plotted for similarity earlier
-# with one new user "E" who has rated only movie 1
 item_list = []
 user_list = []
 rating_list = []
